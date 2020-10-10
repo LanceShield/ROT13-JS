@@ -1,4 +1,4 @@
-// Script coded by Christopher Drake | Script is Open Source. So have fun! :)
+// Script coded by RavenholmZombie | Script is Open Source. So have fun! :)
 
 var last="";
 var rot13map;
